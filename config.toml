@@ -61,19 +61,19 @@ target = "_blank"
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kk_sudo/"
+url = "https://www.instagram.com/hasifjalil/"
 target = "_blank"
 [[params.social]]
 name = "Linkedin"
 icon = "fa fa-linkedin fa-2x"
 weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
+url = "https://www.linkedin.com/in/hasifjalil/"
 target = "_blank"
 [[params.social]]
 name = "k@kazakov.xyz"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:hasifabduljalil@gmail.com"
 target = "_blank"
 
 # Menu links
