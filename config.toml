@@ -25,7 +25,7 @@ author = "Hasif Jalil"
 info = ["Full Stack DevOps and Magician"]
 description = "Hasif Jalil's personal page"
 keywords = "blog,businesscard,personal,devops,hasifabduljalil,hasif,jalil"
-avatarurl = "images/avatar.jpg"
+avatarurl = "https://avatars.githubusercontent.com/u/153401666?s=400&u=8ddfe67f3e34a082e5a7a854fac59f6db36ac49a&v=4"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
