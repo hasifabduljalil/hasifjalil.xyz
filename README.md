@@ -1,14 +1,14 @@
-[![Publish to Cloudflare Pages](https://github.com/kksudo/kazakov.xyz/actions/workflows/publish.yml/badge.svg)](https://github.com/kksudo/kazakov.xyz/actions/workflows/publish.yml)
+[![Publish to Cloudflare Pages](https://github.com/hasifabduljalil/hasifjalil.xyz/actions/workflows/publish.yml/badge.svg)](https://github.com/hasifabduljalil/hasifjalil.xyz/actions/workflows/publish.yml)
 
 # Description
 
-A public personal website of [kazakov.xyz](https://kazakov.xyz) based on [Hugo](https://gohugo.io/) framework and [hugo-coder](https://github.com/luizdepra/hugo-coder) theme.
+A public personal website of [hasifjalil.xyz](https://hasifjalil.xyz) based on [Hugo](https://gohugo.io/) framework and [hugo-coder](https://github.com/luizdepra/hugo-coder) theme.
 
 This site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
 # Live demo
 
-[kazakov.xyz](https://kazakov.xyz/)
+[hasifjalil.xyz](https://hasifjalil.xyz/)
 
 ## What I should todo, if I would like exactly the same personal page 
 
