@@ -2,13 +2,13 @@
 
 # Description
 
-A public personal website of [hasifjalil.xyz](https://hasifjalil.xyz) based on [Hugo](https://gohugo.io/) framework and [hugo-coder](https://github.com/luizdepra/hugo-coder) theme.
+A public personal website of [my.hasifjalil.xyz](https://my.hasifjalil.xyz) based on [Hugo](https://gohugo.io/) framework and [hugo-coder](https://github.com/luizdepra/hugo-coder) theme.
 
 This site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
 # Live demo
 
-[hasifjalil.xyz](https://hasifjalil.xyz/)
+[my.hasifjalil.xyz](https://my.hasifjalil.xyz/)
 
 ## What I should todo, if I would like exactly the same personal page 
 
